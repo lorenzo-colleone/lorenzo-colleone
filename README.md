@@ -1,20 +1,4 @@
-
 <h1>Olá, eu sou o Lorenzo!</h1>
-
-<!--
-**lorenzo-colleone/lorenzo-colleone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div>
   <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-colleone&theme=dark#gh-dark-mode-only&theme=default#gh-light-mode-only>
@@ -39,3 +23,5 @@ Here are some ideas to get you started:
   <a href=mailto:lorenzo.colleone@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="http://www.linkedin.com/in/lorenzo-colleone" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
+
+![Snake animation](https://github.com/lorenzo-colleone/lorenzo-colleone/blob/output/github-contribution-grid-snake.svg)
